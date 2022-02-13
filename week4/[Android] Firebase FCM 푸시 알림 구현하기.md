@@ -205,4 +205,5 @@ public class MyFireBaseMessagingService extends FirebaseMessagingService {
 ![통계](https://user-images.githubusercontent.com/70934572/153736814-7b947e74-9312-439d-b615-9ac5762ab9af.PNG)
 
 <hr>
+
 추후에는 서버에서 프로그래밍적으로 푸시 알림 메시지를 보내기 위해 php를 사용할 예정이다. 
